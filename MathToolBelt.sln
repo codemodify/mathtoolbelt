@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolBelt.Sorting", "MathToolBelt.Sorting\MathToolBelt.Sorting.csproj", "{190EAA3C-2516-426D-81C0-0BEA8AAE60A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolBelt.SortingTest", "MathToolBelt.SortingTest\MathToolBelt.SortingTest.csproj", "{B8252DC7-672B-448C-8132-703DC653E779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolBelt.Helpers", "MathToolBelt.Helpers\MathToolBelt.Helpers.csproj", "{9CBE7D90-DBEA-4548-98A6-D4D4FB2B83C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolBelt.Searching.Contracts", "MathToolBelt.Searching.Contracts\MathToolBelt.Searching.Contracts.csproj", "{E97D1181-D969-457B-B15B-52513A82A6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolBelt.Searching.Ui.App", "MathToolBelt.Searching.Ui.App\MathToolBelt.Searching.Ui.App.csproj", "{06F74556-0D69-42DC-B377-FF42F19153EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolBelt.Searching.Ui.TreeVisualizer", "MathToolBelt.Searching.Ui.TreeVisualizer\MathToolBelt.Searching.Ui.TreeVisualizer.csproj", "{B7EC0948-0E2D-4D1A-B372-87C3D4D09618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolBelt.Sorting.Contracts", "MathToolBelt.Sorting.Contracts\MathToolBelt.Sorting.Contracts.csproj", "{372337D8-6C21-410B-BFB0-D30B003A6D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolBelt.Sorting.Ui.App", "MathToolBelt.Sorting.Ui.App\MathToolBelt.Sorting.Ui.App.csproj", "{132F6853-B069-4800-AA4B-8ADA36EBFE13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolBelt.DataStructures", "MathToolBelt.DataStructures\MathToolBelt.DataStructures.csproj", "{EAF027E9-B565-4FDC-8E51-F44721B7C296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolBelt.Searching", "MathToolBelt.Searching\MathToolBelt.Searching.csproj", "{8D09FC04-37C7-486D-B513-6D901754E25F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190EAA3C-2516-426D-81C0-0BEA8AAE60A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190EAA3C-2516-426D-81C0-0BEA8AAE60A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190EAA3C-2516-426D-81C0-0BEA8AAE60A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190EAA3C-2516-426D-81C0-0BEA8AAE60A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8252DC7-672B-448C-8132-703DC653E779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8252DC7-672B-448C-8132-703DC653E779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8252DC7-672B-448C-8132-703DC653E779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8252DC7-672B-448C-8132-703DC653E779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBE7D90-DBEA-4548-98A6-D4D4FB2B83C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBE7D90-DBEA-4548-98A6-D4D4FB2B83C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBE7D90-DBEA-4548-98A6-D4D4FB2B83C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBE7D90-DBEA-4548-98A6-D4D4FB2B83C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97D1181-D969-457B-B15B-52513A82A6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97D1181-D969-457B-B15B-52513A82A6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97D1181-D969-457B-B15B-52513A82A6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97D1181-D969-457B-B15B-52513A82A6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F74556-0D69-42DC-B377-FF42F19153EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F74556-0D69-42DC-B377-FF42F19153EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F74556-0D69-42DC-B377-FF42F19153EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F74556-0D69-42DC-B377-FF42F19153EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EC0948-0E2D-4D1A-B372-87C3D4D09618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EC0948-0E2D-4D1A-B372-87C3D4D09618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EC0948-0E2D-4D1A-B372-87C3D4D09618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EC0948-0E2D-4D1A-B372-87C3D4D09618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372337D8-6C21-410B-BFB0-D30B003A6D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372337D8-6C21-410B-BFB0-D30B003A6D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372337D8-6C21-410B-BFB0-D30B003A6D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372337D8-6C21-410B-BFB0-D30B003A6D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132F6853-B069-4800-AA4B-8ADA36EBFE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132F6853-B069-4800-AA4B-8ADA36EBFE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132F6853-B069-4800-AA4B-8ADA36EBFE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132F6853-B069-4800-AA4B-8ADA36EBFE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF027E9-B565-4FDC-8E51-F44721B7C296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF027E9-B565-4FDC-8E51-F44721B7C296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF027E9-B565-4FDC-8E51-F44721B7C296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF027E9-B565-4FDC-8E51-F44721B7C296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D09FC04-37C7-486D-B513-6D901754E25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D09FC04-37C7-486D-B513-6D901754E25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D09FC04-37C7-486D-B513-6D901754E25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D09FC04-37C7-486D-B513-6D901754E25F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
